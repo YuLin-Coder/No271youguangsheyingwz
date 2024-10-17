@@ -1,7 +1,6 @@
 ## 271.有光摄影分享网站系统(程序+报告)
 
 ###  获取sql数据库文件: 从戎源码网 (https://armycodes.com/) QQ: 386869957 QQ群: 377586148
-###  微信1: yulin-coder 微信2: 19941326836
 ###  所有系统地址: (https://github.com/YuLin-Coder/AllProjectCatalog) 
 ###  所有项目以及源代码本人均调试运行无问题 可支持远程安装部署调试、定制修改、代码讲解
 
